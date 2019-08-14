@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[Form1.cs](./CS/DXMapInMemoryTileProvider/MainWindow.xaml.cs) (VB: [Form1.vb](./VB/DXMapInMemoryTileProvider/MainWindow.xaml.vb))**
+* **[MainWindow.xaml.cs](./CS/DXMapInMemoryTileProvider/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXMapInMemoryTileProvider/MainWindow.xaml.vb))**
 <!-- default file list end -->
 # How to implement an in-memory image tile provider in the Map Control
 
