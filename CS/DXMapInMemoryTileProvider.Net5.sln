@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXMapInMemoryTileProvider", "DXMapInMemoryTileProvider\DXMapInMemoryTileProvider.csproj", "{BB038B1B-E8E3-4EEC-A1C8-F36DB4053892}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXMapInMemoryTileProvider", "DXMapInMemoryTileProvider\DXMapInMemoryTileProvider.Net5.csproj", "{BB038B1B-E8E3-4EEC-A1C8-F36DB4053892}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
